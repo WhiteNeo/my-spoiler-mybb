@@ -1,7 +1,7 @@
 <?php
 /**
  * my_spoiler 1.2
- * English language
+ * Czech language
  * Dark Neo - SoporteMyBB
  */
  
